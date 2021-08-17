@@ -1,0 +1,2 @@
+# RicaMex
+GitHub Pages
